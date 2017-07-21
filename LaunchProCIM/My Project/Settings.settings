@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="PfilesEnvx86" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ProgramFiles</Value>
+    </Setting>
+    <Setting Name="PFilesEnvx64" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ProgramFiles(x86)</Value>
+    </Setting>
+    <Setting Name="PFilesx64" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files (x86)</Value>
+    </Setting>
+    <Setting Name="PFilesx86" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
